@@ -1,0 +1,22 @@
+数据来源：来源于https://sofifa.com/网站，共包括奥地利、比利时、丹麦、英格兰、法国、德国、爱尔兰、意大利、荷兰、挪威、波兰、葡萄牙、苏格兰、西班牙、
+瑞典、瑞士、土耳其、阿根廷、巴西、智利、哥伦比亚、墨西哥、美国、中国、日本、韩国、沙特、澳大利亚等国家的主流联赛数据，超过28个国家的36个高级别联赛。
+数据集：data.csv共包括90个字段信息，各个字段的含义如下所示：
+            ID唯一标识 Name姓名 Age年龄 Photo照片图片链接 Nationality	国籍 Flag国旗图片链接 Overall综合能力 Potential潜力值 Club签约俱乐部
+            Club Logo	俱乐部logo链接  Value身价 Wage周薪 Special总能力 Preferred Foot惯用脚 International Reputation国际声誉 
+            Weak Foot逆足能力 Skill Moves花式技巧 Work Rate 积极性 Body Type身体模型 Real Face真实脸型 Position	位置 
+            Jersey Number球衣号码 Joined入队时间  Loaned From	从哪里租借  Contract Valid Until合同到期 Height身高  Weight 体重  
+            LS	左锋 Left Striker ST	前锋 Striker  RS	右锋 Right Striker  LW	左边锋left wing LF	左中锋 left forward 
+            CF	中锋 centre forward RF	右中锋 right forward
+            RW	右边锋right wing LAM	左攻击性前卫 left att. midfield CAM	中攻击性前卫 centre att. midfield 
+            RAM 右攻击性前卫 right att. midfield LM	左前卫 left midfield   LCM	左中前卫 left centre midfield 
+            CM	中前卫 centre midfield RCM	右中前卫 right centre midfield
+            RM	右前卫right midfield LWB	左边后卫 left wing back  LDM	左边防守型前卫 left def. midfield  
+            CDM 中防守型前卫 centre def. midfield  RDM	右边防守型前卫 rigth def. midfield RWB	右边后卫 right wing back   
+            LB	左后卫 left back LCB	左中后卫 left centre back  CB	中后卫 centre back RCB	右中后卫 right centre back 
+            RB	右后卫 right back Crossing	传中   Finishing	射术  HeadingAccuracy  头球精度 ShortPassing	短传 
+            Volleys	凌空 Dribbling	盘带 Curve	弧线 FKAccuracy	任意球精度 LongPassing	长传 BallControl	控球
+            Acceleration 加速 SprintSpeed	速度  Agility	敏捷 Reactions	反应  Balance	平衡  ShotPower	射门力量 
+            Jumping	弹跳 Stamina	体能  Strength	强壮  LongShots	远射 Aggression	侵略性  Interceptions	拦截意识 
+            Positioning	跑位 Vision	视野  Penalties	点球  Composure	沉着 Marking	盯人  StandingTackle	抢断  
+            SlidingTackle	铲球  GKDiving	鱼跃 GKHandling	手型 GKKicking	开球
+            GKPositioning	站位 GKReflexes	反应 Release Clause	违约金 league 联赛 continent 所属大洲
